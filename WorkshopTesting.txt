@@ -1,8 +1,6 @@
 Hello !
 How are you ?Narne
-Who are you ? Narne, Hemanth
 whats your name ?
-which University ? NWMSU
-which University ? Northwest missouri state university
-Which Course ? Applied Computer Science
+which University ?
+Which Course ?
 Am from hyderabad.
